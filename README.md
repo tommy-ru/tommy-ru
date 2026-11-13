@@ -4,8 +4,6 @@
 
 **CODE · CREATE · REFINE**
 
-<img src="https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81-58A6FF?style=flat-square" alt="Blue accent"><img src="https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81-58A6FF?style=flat-square" alt="Blue accent"><img src="https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81-58A6FF?style=flat-square" alt="Blue accent"><img src="https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81-58A6FF?style=flat-square" alt="Blue accent"><img src="https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81-58A6FF?style=flat-square" alt="Blue accent">
-
 <kbd> Developer </kbd>&nbsp; <kbd> Student </kbd>&nbsp; <kbd> Problem Solver </kbd>
 
 <br>
