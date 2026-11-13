@@ -7,7 +7,6 @@
 <kbd> Developer </kbd>&nbsp; <kbd> Student </kbd>&nbsp; <kbd> Problem Solver </kbd>
 
 <br>
-<br>
 
 Learning by building, testing, and improving.
 <br>
