@@ -4,7 +4,7 @@
 
 **CODE · CREATE · REFINE**
 
-<img src="https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81-58A6FF?style=flat-square" alt="Blue accent">
+<img src="https://img.shields.io/badge/%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81-58A6FF?style=flat-square" alt="Blue accent">
 
 <kbd> Developer </kbd>&nbsp; <kbd> Student </kbd>&nbsp; <kbd> Problem Solver </kbd>
 
@@ -48,5 +48,6 @@ Focused on clear logic, useful automation, and thoughtful interfaces.
 <img src="https://img.shields.io/badge/Student%20developer-Always%20learning-58A6FF?style=flat-square&labelColor=1A2B42" alt="Student developer · Always learning">
 
 </div>
+
 
 
